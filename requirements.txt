@@ -4,3 +4,5 @@ torchvision
 scikit-learn
 matplotlib
 numpy
+transformers
+Pillow
